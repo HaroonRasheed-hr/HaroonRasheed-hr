@@ -150,7 +150,6 @@ TypeScript       ████████░░░░░░░░░░░░░
 
 <div align="center">
 
-[![Portfolio](https://github.com/HaroonRasheed-hr)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrasheed0702@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaroonRasheed-hr)
 
