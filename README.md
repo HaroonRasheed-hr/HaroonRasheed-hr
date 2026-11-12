@@ -69,14 +69,14 @@ Backend Engineer focused on Python, Django, and backend systems. I build scalabl
 
 ## Experience
 
-### Full Stack Intern (Backend Focused) — Xis.ai · Remote
+### Full Stack Intern (Backend Focused) - Xis.ai · Remote
 - Built backend services with Django, DRF, and PostgreSQL across multiple modules
 - Designed and shipped REST endpoints for authentication, inspection workflows, and reporting
 - Integrated model-based workflows for image inference and automation
 - Built real-time monitoring and notification infrastructure
 - Improved report generation and processing speed through system optimization
 
-### Software Engineer Intern — Techworks · Remote
+### Software Engineer Intern - Techworks · Remote
 - Delivered automation and API integration projects using n8n, Zapier, and Make.com
 - Built web applications and integrated third-party APIs into scalable systems
 - Automated workflows to reduce manual effort and improve efficiency
